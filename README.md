@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 [![An image of @vathsalaachar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vathsalaachar)](https://holopin.io/@vathsalaachar)
-<!--
+
 **VathsalaAchar/VathsalaAchar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
