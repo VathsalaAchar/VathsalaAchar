@@ -28,4 +28,11 @@ I'm Vathsala and here's a little bit about me:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I started coding when I was 8 years old
 
+
+<details>
+<summary> Github Weekly Stats</summary>
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=VathsalaAchar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
+</details>
