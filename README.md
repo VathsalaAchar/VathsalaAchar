@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! 
+
+I'm Vathsala and here's a little bit about me:
+
+
+- 🔭 I’m currently working on the Ruminate Project
+- 🌱 I’m currently learning Typescript, React and Firebase
+
+
+- 💬 Ask me about being a Woman in Tech
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I started coding when I was 8 years old
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VathsalaAchar&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
