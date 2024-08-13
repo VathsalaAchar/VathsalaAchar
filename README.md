@@ -9,7 +9,6 @@ Here's a little bit about me:
 - 🔭 I’m currently working on the Ruminate Project
 - 🌱 I’m currently learning Typescript, React and Firebase
 - 💬 Ask me about being a Woman in Tech
-- 📫 You'll find me on my [blog](www.vathsalaachar.com) sharing as I learn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I started coding when I was 8 years old
 
