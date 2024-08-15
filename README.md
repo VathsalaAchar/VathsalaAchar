@@ -6,8 +6,8 @@ I'm Vathsala, a Jack of all Trades and I prefer it that way. I have spent most o
 Here's a little bit about me:
 
 
-- 🔭 I’m currently working on the Ruminate Project
-- 🌱 I’m currently learning Typescript, React and Firebase
+- 🔭 I’m currently working on problem solving
+- 🌱 I’m currently interested in learning Typescript
 - 💬 Ask me about being a Woman in Tech
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I started coding when I was 8 years old
