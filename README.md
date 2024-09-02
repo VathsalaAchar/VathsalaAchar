@@ -1,13 +1,13 @@
 Hi! 
 
-I'm Vathsala, a Jack of all Trades and I prefer it that way. I have spent most of my Tech career coding in Python, but this year I've started learning new languages and frameworks. I've recently worked on React and GraphQL.
+I'm Vathsala and I have been coding with Python since 2011. This year I've been trying new languages and frameworks, most recently React and GraphQL.
 
 
 Here's a little bit about me:
 
 
-- 🔭 I’m currently working on problem solving
-- 🌱 I’m currently interested in learning Typescript
+- 🔭 I’m currently working on problem solving (Project Euler)
+- 🌱 I’m interested in learning Typescript
 - 💬 Ask me about being a Woman in Tech
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I started coding when I was 8 years old
